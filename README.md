@@ -1,2 +1,4 @@
 # hello-world
-My first GitHub Repositort
+My first GitHub Repository
+
+Hi,This is badhri.
